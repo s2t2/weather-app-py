@@ -3,8 +3,8 @@
 ## Installation
 
 ```shell
-git clone ______________
-cd my-weather-app-py
+git clone git@github.com:s2t2/weather-app-py.git
+cd weather-app-py/
 ```
 
 ## Usage
