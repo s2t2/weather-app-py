@@ -1,0 +1,1 @@
+print("THE WEATHER IS CLOUDY AND")
